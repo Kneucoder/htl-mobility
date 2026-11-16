@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="H.T.L Mobility">
-  <rect width="32" height="32" rx="8" fill="#9B1B2E" />
-  <rect x="6" y="14" width="18" height="8" rx="1.5" fill="#F6F1EE" />
-  <rect x="20" y="11" width="6" height="7" rx="1" fill="#F6F1EE" />
-  <circle cx="10" cy="23" r="2.2" fill="#1C1416" />
-  <circle cx="22" cy="23" r="2.2" fill="#1C1416" />
-</svg>
